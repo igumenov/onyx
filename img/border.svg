@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+  <defs>
+    <style>
+      .rect {
+        fill: black;
+        fill-rule: evenodd;
+      }
+      .rect2 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+      .rect3 {
+        fill: green;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="rect" data-name="rect" class="rect" d="M0,700 V 0 H 1000 V 700 H 0 Z M 990, 10 H 10 V 690 H 990 V 10Z"/>
+  <path id="rect2" data-name="rect2" class="rect2" d="M0,400 V 0 H 700 V 400 H 10 Z M 690, 10 H 10 V 390 H 690 V 10Z" transform="translate(150, 150)"/>
+	  
+	 
+</svg>

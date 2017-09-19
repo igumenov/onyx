@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+  <defs>
+    <style>
+      .rect3 {
+        fill: #000;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <!-- <path id="path3" data-name="path3" class="path3" d="M50, 750 V 50 H 1050 V 750 H 50 Z M 1040, 60 H 60 V 740 h 980 V 60Z"/> -->
+  <path id="rect3" data-name="rect3" class="rect3" d="M10,690 V 10 H 990 V 690 H 10 Z M150,550 V 150 H 850 V 550 H 20 Z"/>
+</svg>
